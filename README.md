@@ -1,1 +1,1 @@
-Verilog code for an 8 bit micro processor
+Verilog code for an 32 bit micro processor
